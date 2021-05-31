@@ -22,8 +22,8 @@ public class UserController {
 
   @Autowired
   private UserRepository userRepository;
-  //get all users
 
+  //get all users
   @GetMapping
   public List<User> getAllUsers()
   {
