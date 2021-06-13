@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class SpringbootCurdRestfullWebservicesApplicationTests {
 
-  @Test
+  //@Test
   void contextLoads() {
   }
 }
